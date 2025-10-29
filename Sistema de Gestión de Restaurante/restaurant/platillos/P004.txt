@@ -1,0 +1,5 @@
+ID: P004
+Nombre: Especial Rabbit - Zeytoon Parvardeh (Aceitunas Persas Marinadas)
+Precio: 45000.0
+Categoría: Plato Fuerte
+Disponible: True

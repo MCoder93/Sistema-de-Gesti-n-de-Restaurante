@@ -1,0 +1,5 @@
+ID: P002
+Nombre: Pollo Asado con Papas Mayó
+Precio: 8000.0
+Categoría: Plato Fuerte
+Disponible: True

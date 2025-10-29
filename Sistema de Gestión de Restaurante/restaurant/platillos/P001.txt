@@ -1,0 +1,5 @@
+ID: P001
+Nombre: Carne Asada con Verduras Salteadas
+Precio: 15000.0
+Categoría: Plato Fuerte
+Disponible: True

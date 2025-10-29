@@ -1,0 +1,5 @@
+ID: E001
+Nombre: Ensalada a la Chilena
+Precio: 3000.0
+Categoría: Entrada
+Disponible: True

@@ -1,0 +1,5 @@
+ID: D001
+Nombre: Leche Asada
+Precio: 3000.0
+Categoría: Postre
+Disponible: True

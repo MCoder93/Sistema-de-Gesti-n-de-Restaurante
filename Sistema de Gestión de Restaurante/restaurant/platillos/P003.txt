@@ -1,0 +1,5 @@
+ID: P003
+Nombre: Especial Wolf - Bife Asado con Verduras Salteada (8Kg de dulzura)
+Precio: 50000.0
+Categoría: Plato Fuerte
+Disponible: True
