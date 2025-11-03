@@ -1,4 +1,4 @@
-# 🐺 Programación en Python
+#🐺 Proyecto en Python
 
 """
 Sistema de Administración de Restaurante
@@ -880,4 +880,5 @@ if __name__ == "__main__":
     Se ejecuta solo si el archivo se ejecuta directamente
     """
     app()
+
 
